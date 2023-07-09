@@ -1,0 +1,4 @@
+PART_ID,Block number,Trial number,Button pressed,Reaction time,Stim word,Trial type,Experimental
+M,training,1,m,0.3007718060002844
+M,training,2,z,0.305359646999932
+M,training,3,no_key,2.9462634310002613

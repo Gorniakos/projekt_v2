@@ -1,0 +1,9 @@
+PART_ID,Block number,Trial number,Button pressed,Reaction time,Stim word,Trial type,Experimental
+346M253 ,training,1,x,0.5595368670000198
+346M253 ,training,2,m,0.5420272259999592
+346M253 ,training,3,n,0.2976146550000749
+346M253 ,0,3,no_key,-1.0
+346M253 ,0,4,no_key,-1.0
+346M253 ,0,5,no_key,-1.0
+346M253 ,0,6,no_key,-1.0
+346M253 ,0,7,no_key,-1.0

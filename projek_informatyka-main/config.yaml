@@ -1,0 +1,19 @@
+# All values in no of frames
+BACKGROUND_COLOR: darkgrey
+FRAME_RATE: 60
+SCREEN_RES: [1440, 900]
+FIX_CROSS_TIME: 1
+TRAIN_CONGRUENT_IN_BLOCK: 2
+TRAIN_INCONGRUENT_IN_BLOCK: 1
+TRAIN_CONTROL_IN_BLOCK: 1
+EXP_CONGRUENT_IN_BLOCK: 1
+EXP_INCONGRUENT_IN_BLOCK: 1
+EXP_CONTROL_IN_BLOCK: 1
+EXP_NO_BLOCKS: 2
+FIX_CROSS_COLOR: 'black'
+STIM_SIZE: 25
+STIM_TIME: 180
+REACTION_KEYS: [z, x, n, m]
+STIM_COLOR: [yellow, green, blue, red]
+STIM_WORD: ["zolty", "zielony", "niebieski", "czerwony"]
+CONTROL_WORD: ["szklany", "jasny", "kwiatowy", "drewniany"]
